@@ -1,3 +1,4 @@
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -11,6 +12,10 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+body{
+  background-image: url('https://api.wallpapers.ai/static/downloads/203af75b54e3438390ea5da8dac6b3ab/upscaled/000000_900822006_kdpmpp2m15_PS7.5_PC_background._Fondo_de_pantalla_de_PC_de_Pok_mon,_imagen_con_animaciones._Realistic_[upscaled].jpg');
+  position: center;
 }
 
 a {
